@@ -1,0 +1,15 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/uuid-4c817b6dd7a97cdf.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/compact.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/serde_support.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/v4.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/uuid-4c817b6dd7a97cdf.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/compact.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/serde_support.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/v4.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/compact.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/serde_support.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/v4.rs:

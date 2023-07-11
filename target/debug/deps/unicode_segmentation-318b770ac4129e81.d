@@ -1,0 +1,11 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/unicode_segmentation-318b770ac4129e81.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/libunicode_segmentation-318b770ac4129e81.rlib: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/unicode_segmentation-318b770ac4129e81.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/grapheme.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/sentence.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/word.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.10.1/src/tables.rs:

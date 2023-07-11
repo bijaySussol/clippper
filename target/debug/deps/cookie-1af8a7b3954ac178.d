@@ -1,0 +1,13 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/cookie-1af8a7b3954ac178.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/libcookie-1af8a7b3954ac178.rlib: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/cookie-1af8a7b3954ac178.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/builder.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/parse.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/jar.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/delta.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/draft.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.17.0/src/expiration.rs:

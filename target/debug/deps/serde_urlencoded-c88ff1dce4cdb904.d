@@ -1,0 +1,11 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/serde_urlencoded-c88ff1dce4cdb904.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/serde_urlencoded-c88ff1dce4cdb904.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/de.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/key.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/part.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.7.1/src/ser/value.rs:

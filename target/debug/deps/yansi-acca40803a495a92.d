@@ -1,0 +1,14 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/yansi-acca40803a495a92.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/macros.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/windows.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/attr_quirk.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/style.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/color.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/paint.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/global.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/condition.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/set.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/yansi-acca40803a495a92.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/macros.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/windows.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/attr_quirk.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/style.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/color.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/paint.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/global.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/condition.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/set.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/macros.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/windows.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/attr_quirk.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/style.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/color.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/paint.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/global.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/condition.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-1.0.0-rc/src/set.rs:

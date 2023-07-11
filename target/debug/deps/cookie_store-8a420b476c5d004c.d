@@ -1,0 +1,11 @@
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/cookie_store-8a420b476c5d004c.rmeta: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_domain.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_expiration.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_path.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_store.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/utils.rs
+
+/Users/heidi/Documents/GitHub/clippper/target/debug/deps/cookie_store-8a420b476c5d004c.d: /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/lib.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_domain.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_expiration.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_path.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_store.rs /Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/utils.rs
+
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/lib.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_domain.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_expiration.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_path.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/cookie_store.rs:
+/Users/heidi/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.16.2/src/utils.rs:

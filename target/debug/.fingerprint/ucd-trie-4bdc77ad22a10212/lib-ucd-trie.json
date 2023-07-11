@@ -1,0 +1,1 @@
+{"rustc":4227678736416435130,"features":"[\"std\"]","target":13788374469895684929,"profile":8987646332441898785,"path":2904460641806883618,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ucd-trie-4bdc77ad22a10212/dep-lib-ucd-trie"}}],"rustflags":["-L","/opt/homebrew/opt/libpq/lib"],"metadata":14294133660085481805,"config":2202906307356721367,"compile_kind":0}

@@ -1,0 +1,1 @@
+{"rustc":4227678736416435130,"features":"[\"std\"]","target":8587162906468902365,"profile":8344124108420085910,"path":16535641509690406237,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bitflags-de1f40631c73890a/dep-lib-bitflags"}}],"rustflags":["-L","/opt/homebrew/opt/libpq/lib"],"metadata":14564035643000669268,"config":2202906307356721367,"compile_kind":0}
